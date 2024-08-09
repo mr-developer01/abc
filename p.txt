@@ -29,3 +29,6 @@ ghjsdkl;a'x
 8. Pull kr loca
     git pull -u origin main
 9. apne branch ko push krna hai
+chiku!!!
+gfhjdk
+dfjhkjsf
