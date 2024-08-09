@@ -4,7 +4,6 @@ priya
 fguhsdjk............cfvgr
 ghjsdkl;a'x
 
-
 --- Khud ka repo manage krna
 1. github - repo kreate karogi
 2. apne sys me github ke repo ka access logi
