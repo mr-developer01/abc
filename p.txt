@@ -3,3 +3,29 @@ Kunal
 priya
 fguhsdjk............cfvgr
 ghjsdkl;a'x
+
+--- Khud ka repo manage krna
+1. github - repo kreate karogi
+2. apne sys me github ke repo ka access logi
+3. jo v changes karogi local me usko github ke repo tk pahuchaogi
+4. git status or git status -s
+    git add .
+    git commit -m "msg"
+    git push origin main
+5. check krna hai kitne commits hai
+    git log or git log --oneline
+
+
+--- Working as a collab
+1. local me folder banao
+2. repo ko clone kro apne banaye huye local folder me
+3. git clone url
+4. move in repo come from github
+5. create new branch 
+    git branch koivname
+6. Changes ko add and commit kro
+7. Code ko push krne se pahle fetch kro - isase pata lagega ki mujhe kuchh nya pull krna hai ya nhi
+    git fetch -u origin main
+8. Pull kr loca
+    git pull -u origin main
+9. apne branch ko push krna hai
